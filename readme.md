@@ -20,9 +20,9 @@ SpectrumWaterfallMonitor
 
 ## Документація модулів
 
-- [SpectrumWaterfallMonitor.Core/README.md](SpectrumWaterfallMonitor.Core/README.md)
+- [SpectrumWaterfallMonitor.Core/README.md](https://github.com/kemenyash/SpectrumWaterfallMonitor/blob/master/SpectrumWaterfallMonitor.Core/readme.md)
 
--  [SpectrumWaterfallMonitor.Controls/README.md](SpectrumWaterfallMonitor.Controls/README.md)
+- [SpectrumWaterfallMonitor.Controls/README.md](https://github.com/kemenyash/SpectrumWaterfallMonitor/blob/master/SpectrumWaterfallMonitor.Controls/readme.md)
 
-- [SpectrumWaterfallMonitor.Wpf/README.md](SpectrumWaterfallMonitor.Wpf/README.md)
+- [SpectrumWaterfallMonitor.Wpf/README.md](https://github.com/kemenyash/SpectrumWaterfallMonitor/blob/master/SpectrumWaterfallMonitor.Wpf/readme.md)
 
